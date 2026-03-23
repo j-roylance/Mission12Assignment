@@ -1,0 +1,9 @@
+=== COPY THIS COMMENT TO LEARNING SUITE ===
+
+Bootstrap features used (#notcoveredinthevideos):
+
+1. BADGE - Used in Header.jsx on the Cart button to display the number of items in the cart. The badge appears as a small red circle (badge bg-danger) positioned at the top-right of the Cart button.
+
+2. OFFCANVAS - Used in Header.jsx as a slide-out cart preview panel. When the user clicks the "Cart" button in the header, an offcanvas panel slides in from the right side of the screen showing a quick preview of cart items, subtotals, and buttons to "Continue Shopping" or "View Full Cart".
+
+File: frontend/src/Header.jsx
