@@ -1,5 +1,3 @@
-=== COPY THIS COMMENT TO LEARNING SUITE ===
-
 Bootstrap features used (#notcoveredinthevideos):
 
 1. BADGE - Used in Header.jsx on the Cart button to display the number of items in the cart. The badge appears as a small red circle (badge bg-danger) positioned at the top-right of the Cart button.
